@@ -19,7 +19,7 @@
 
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
 
-![Состояние службы](images/Task_3.jpg)
+![Состояние службы](https://github.com/George210890/11-02.md/blob/main/Task_3.jpg)
 
 ---
 
